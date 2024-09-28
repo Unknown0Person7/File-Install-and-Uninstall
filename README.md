@@ -17,13 +17,13 @@
 
 * `git clone https://github.com/jonayed-hossen/Application-Installer-and-Uninstaller.git`
 * `cd Application-Installer-and-Uninstaller`
-* `bash install.sh`
+* `bash installer.sh`
 * `./main.sh`
 #### > Run : `./main.sh`
 
 ## Single Command to Installation :
 ```
-git clone https://github.com/jonayed-hossen/Application-Installer-and-Uninstaller.git && cd Application-Installer-and-Uninstaller && bash install.sh
+git clone https://github.com/jonayed-hossen/Application-Installer-and-Uninstaller.git && cd Application-Installer-and-Uninstaller && bash installer.sh
 ```
 ## Credits :
 #### > Jonayed Hossen (https://github.com/jonayed-hossen)
